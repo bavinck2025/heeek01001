@@ -5,4 +5,4 @@
 이게 모게?
 
 
-https://youtu.be/kck79uAPtMw?si=tTrmrOgOKAZOkXMU
+youtu.be/kck79uAPtMw?si=tTrmrOgOKAZOkXMU
