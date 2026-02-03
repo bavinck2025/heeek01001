@@ -4,5 +4,13 @@
 
 이게 모게?
 
+<iframe
+    width="560"
+    height="315"
+    src="www.youtube.com/watch?v=J5ofuLKjRDU"
+    title="video"
+    frameborder="0"
+    allowfullscreen>
+</iframe>
 
-youtu.be/kck79uAPtMw?si=tTrmrOgOKAZOkXMU
+
